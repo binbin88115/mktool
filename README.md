@@ -7,7 +7,7 @@ a tool for cocos2dx used to generate makefile
 
 cocos2dx在android机上的编译是需要makefile文件的，而本工具提供一鍵生成makefile文件。<br/>
 
-命令格式：
+命令格式：<br/>
 python mian.py /Users/xxx/Document/cocos2dx/project/Classes<br/>
 python main.py ../Classes<br/>
 python main.py D:/cocos2dx/project/Classes<br/>
